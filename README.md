@@ -14,18 +14,11 @@ I'm Goudjal Youcef Mohammed, I'm a software engineer 👨‍💻 who is passiona
   </tr>
   <tr>
     <h3> My skills include</h3>
-<p align="left">
+<p align="center">
   <img title="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50"/>
   <img title="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"   width="50" height="50" />
   <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"   width="50" height="50" />
-  <img title="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"   width="50" height="50" />
-  <img title="TF" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
-  <img title="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"   width="50" height="50" />
-  <img title="SQLlite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"   width="50" height="50" />
-  <img title="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"   width="100" height="50" />
   <img title="JAVA" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"   width="50" height="50" />
-  <img title="JS" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"   width="50" height="50" />
-  <img title="Unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"   width="50" height="50" />
   <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"   width="100" height="50" />
   </tr>
   <tr>
